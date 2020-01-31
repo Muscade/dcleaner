@@ -9,3 +9,5 @@
 add <- function(x, y) {
   x + y
 }
+t
+substract <- fucntion(x, y) { x - y }

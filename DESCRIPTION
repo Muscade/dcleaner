@@ -20,3 +20,5 @@ Suggests:
 Depends:
     R (> 3.0.0)
 RoxygenNote: 7.0.2
+URL: http://github.com/Muscade/dcleaner
+BugReports: http://github.com/Muscade/dcleaner/issues

@@ -6,8 +6,11 @@
 #' @examples
 #' add(1, 1)
 #' add(10, 1)
+#' @export
 add <- function(x, y) {
   x + y
 }
-t
-substract <- fucntion(x, y) { x - y }
+
+subs <- function(x, y) {
+  x - y
+}

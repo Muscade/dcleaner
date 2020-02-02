@@ -1,5 +1,5 @@
 Package: dcleaner
-Title: What the Package Does (One Line, Title Case)
+Title: Simple arithmetic operations
 Version: 0.0.0.9000
 Authors@R: 
     person(given = "First",
@@ -8,15 +8,11 @@ Authors@R:
            email = "first.last@example.com",
            comment = c(ORCID = "YOUR-ORCID-ID"))
 Description: What the package does (one paragraph).
-License: What license it uses
+License: GPL-3
 Encoding: UTF-8
 LazyData: true
 Imports: 
-    dplyr (>= 0.2),
-    ggvis (>= 0.3.0.1)
-Suggests:
-    dplyr,
-    ggvis
+    dplyr (>= 0.2)
 Depends:
     R (> 3.0.0)
 RoxygenNote: 7.0.2
